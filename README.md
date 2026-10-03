@@ -5,6 +5,8 @@
 
 A feature-packed extension for **Nuclear Music Player** that brings tag categorization, quick-tagging, and tag-based filtering to playlists.
 
+![Nuclear Playlist Tags and Filtering in Action](./docs/screenshot.png)
+
 ---
 
 ## Features
