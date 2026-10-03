@@ -11,6 +11,10 @@
   },
   "nuclear": {
     "type": "other",
+    "category": "playlists",
+    "categories": [
+      "playlists"
+    ],
     "description": "Tagging and tag-based filtering for playlists with quick-tagging on cards and top filter bar"
   }
 }
