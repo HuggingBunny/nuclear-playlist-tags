@@ -1,0 +1,16 @@
+{
+  "name": "nuclear-playlist-tags",
+  "version": "1.0.0",
+  "description": "Tagging and tag-based filtering for playlists in Nuclear Music Player",
+  "main": "index.js",
+  "author": "Chad Longanecker",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HuggingBunny/nuclear-playlist-tags.git"
+  },
+  "nuclear": {
+    "type": "other",
+    "description": "Tagging and tag-based filtering for playlists with quick-tagging on cards and top filter bar"
+  }
+}
