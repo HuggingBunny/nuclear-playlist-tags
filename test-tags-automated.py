@@ -14,9 +14,10 @@ import sys
 import time
 import json
 import os
+from pathlib import Path
 
 # Add parent dir to path for nuclear_test_bridge
-sys.path.insert(0, '/home/chad/Work')
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from nuclear_test_bridge import start_server, eval_in_nuclear
 
 def run_tests():
